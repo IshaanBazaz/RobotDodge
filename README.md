@@ -1,5 +1,3 @@
-## Robot Dodge Game##
-
 - Dotnet Core
 - C# game developed using Splashkit SDK
 - Screenshot of the game running included
